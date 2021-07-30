@@ -13,10 +13,7 @@ const source = require('./recipients.json');
 const destinationFile = './processed.json';
 let processedNumbers = require(destinationFile);
 
-
-const message = "Mwungere mutumiwe munama itariki 4/8 kuri CLM Rohero munteguro zanyuma z'igikorane ca 25-29/8 kuri ETS.Hatumiw umupasitori 1 kw'Ishengero.Itike iriho. Ni komite";
-
-// const message = "Hello from Node";
+const message = "Hello from Node";
 
 const to = "";
 
