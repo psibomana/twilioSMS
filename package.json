@@ -1,0 +1,11 @@
+{
+  "name": "twilioSMS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Parfait Pascal S. Sibomana",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twilio": "^3.66.1"
+  }
+}
